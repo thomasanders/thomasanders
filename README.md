@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Andrzej Hryniewicz</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
+![Screen](https://github.com/thomasanders/particles-main/blob/main/images/Animation-AH.gif)
+
 - 🌱 I’m currently learning **Python, javaScript,  React.js**
 
 - 📫 How to reach me **andrzej.krzysztof.hryniewicz@gmail.com**
