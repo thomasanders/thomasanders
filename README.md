@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Andrzej Hryniewicz</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
+[my projects](https://thomasanders.github.io/personal-homepage/)
 
 ![Screen](https://github.com/thomasanders/particles-main/blob/main/images/Animation-AH.gif)
 
